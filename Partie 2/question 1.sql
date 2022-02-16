@@ -1,0 +1,17 @@
+CREATE TABLE Personnage
+(
+    id INT PRIMARY KEY NOT NULL,
+    nom VARCHAR(100),
+    espèce VARCHAR(100),
+    age VARCHAR(100),
+)
+CREATE TABLE Sport
+(
+    id INT PRIMARY KEY NOT NULL
+    nom VARCHAR(100)
+)
+CREATE TABLE Voiture
+(
+    id INT PRIMARY KEY NOT NULL
+    nom VARCHAR(100)
+)
