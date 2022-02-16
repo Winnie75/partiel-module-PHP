@@ -1,5 +1,8 @@
 # partiel-module-PHP
 
+module phP et SQL LOUIS ROLLAND DE RENGERVE
+
+
 QUESTION 2.B
 la requête a effectuer pour créer un personnage est la suivantes:
 CREATE TABLE utilisateur
